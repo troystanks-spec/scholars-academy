@@ -1,0 +1,14 @@
+{
+  "games": [
+    { "id": "duck", "name": "Duck Duck Clicker", "url": "https://www.crazygames.com/embed/duck-duck-clicker", "tags": ["clicker"] },
+    { "id": "cookie", "name": "Cookie Clicker", "url": "https://orteil.dashnet.org/cookieclicker/", "tags": ["clicker"] },
+    { "id": "infinite", "name": "Infinite Craft", "url": "https://neal.fun/infinite-craft/", "tags": ["puzzle"] },
+    { "id": "slope", "name": "Slope", "url": "https://www.crazygames.com/embed/slope", "tags": ["arcade"] },
+    { "id": "2048", "name": "2048", "url": "https://play2048.co/", "tags": ["puzzle"] },
+    { "id": "wordle", "name": "Wordle Unlimited", "url": "https://wordleunlimited.org/", "tags": ["word"] },
+    { "id": "suika", "name": "Suika Game", "url": "https://www.crazygames.com/embed/suika-game", "tags": ["physics"] },
+    { "id": "nealfun", "name": "Neal.fun", "url": "https://neal.fun/", "tags": ["experiments"] },
+    { "id": "alchemy", "name": "Little Alchemy 2", "url": "https://littlealchemy2.com/", "tags": ["craft"] },
+    { "id": "sand", "name": "This Is Sand", "url": "https://thisissand.com/", "tags": ["art"] }
+  ]
+}
